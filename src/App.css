@@ -1,0 +1,25 @@
+.App .css-vj1n65-MuiGrid-root{
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+  }
+
+  .MuiGrid-item{
+    width: 30%;
+margin-bottom: 30px !important;
+  }
+  .closebtn{
+    justify-content: flex-end !important;
+  }
+
+  @media (max-width: 767px){
+    .MuiGrid-item{
+      width:100%;
+      margin-bottom: 30px !important;
+    }
+    .cwbaeQ {
+      width: 100% !important;
+      box-sizing: border-box !important;
+    }
+  }
+
